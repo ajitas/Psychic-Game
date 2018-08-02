@@ -1,0 +1,11 @@
+#winmsg {
+    font-size:20px;
+    font-weight:bold;
+
+}
+.container {
+    text-align:center;
+}
+.container>div {
+    padding:10px;
+}
